@@ -11,4 +11,4 @@
 - [java中的静态类](https://routinepanic.com/questions/static-classes-in-java)
 - [java语法糖之自动装箱、自动拆箱](https://my.oschina.net/u/3885275/blog/2966546/print)
 - [深入分析JVM逃逸分析对性能的影响](https://cloud.tencent.com/developer/article/1129554)
--[JVM参数详解](https://toutiao.io/posts/h34060/preview)
+- [JVM参数详解](https://toutiao.io/posts/h34060/preview)
