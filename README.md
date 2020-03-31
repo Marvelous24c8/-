@@ -1,6 +1,7 @@
 # 秋招准备
 ## 总结
 - [大神的面试知识点总结](https://github.com/sjsdfg/CS-Notes-PDF)
+- [【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 - [java面试基础知识点](https://blog.csdn.net/qq_41112238/article/details/105074636)
 ## 技术文章
 ### java
