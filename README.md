@@ -13,3 +13,4 @@
 - [深入分析JVM逃逸分析对性能的影响](https://cloud.tencent.com/developer/article/1129554)
 - [JVM参数详解](https://toutiao.io/posts/h34060/preview)
 - [字符串常量池、运行时常量池、class文件常量池解析](https://blog.csdn.net/qq_26222859/article/details/73135660)
+- [并发与并行]（https://laike9m.com/blog/huan-zai-yi-huo-bing-fa-he-bing-xing,61/）
