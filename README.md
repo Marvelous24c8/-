@@ -15,3 +15,5 @@
 - [字符串常量池、运行时常量池、class文件常量池解析](https://blog.csdn.net/qq_26222859/article/details/73135660)
 - [并发与并行](https://laike9m.com/blog/huan-zai-yi-huo-bing-fa-he-bing-xing,61/)
 - [五种IO模型](https://mp.weixin.qq.com/s?__biz=Mzg3MjA4MTExMw==&mid=2247484746&idx=1&sn=c0a7f9129d780786cabfcac0a8aa6bb7&source=41#wechat_redirect)
+### Netty
+- [一文理解Netty架构模型](https://juejin.im/post/5bea1d2e51882523d3163657#heading-10)
