@@ -2,7 +2,7 @@
 ## 总结
 - [CyC大神的面试知识点总结](https://github.com/sjsdfg/CS-Notes-PDF)
 - [JavaGuide Java学习+面试指南 -- 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
-- [互联网java工程师进阶知识扫盲]（https://github.com/doocs/advanced-java）
+- [互联网java工程师进阶知识扫盲](https://github.com/doocs/advanced-java)
 - [Java面试基础知识点](https://blog.csdn.net/qq_41112238/article/details/105074636)
 ## 技术文章
 ### Java
