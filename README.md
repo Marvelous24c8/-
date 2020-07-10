@@ -1,5 +1,6 @@
 # 秋招准备
 ## 总结
+- [CyC-CS-Notes](https://github.com/CyC2018/CS-Notes)
 - [CyC大神的面试知识点总结](https://github.com/sjsdfg/CS-Notes-PDF)
 - [JavaGuide Java学习+面试指南 -- 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 - [互联网Java工程师进阶知识扫盲](https://github.com/doocs/advanced-java)
