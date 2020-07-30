@@ -10,6 +10,7 @@
 ### Java
 - [从ReentrantLock实现看AQS的原理及应用](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
 - [不得不说的Java锁事](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651749434&idx=3&sn=5ffa63ad47fe166f2f1a9f604ed10091&chksm=bd12a5778a652c61509d9e718ab086ff27ad8768586ea9b38c3dcf9e017a8e49bcae3df9bcc8&scene=38#wechat_redirect)
+- [Java线程池实现原理及其在美团业务中的应用](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
 - [深入理解Java String](https://hacpai.com/article/1533720931387)
 - [死磕Java内部类](https://juejin.im/post/5d0821315188254c434686c8)
 - [Java中的静态类](https://routinepanic.com/questions/static-classes-in-java)
