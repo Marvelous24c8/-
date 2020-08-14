@@ -7,6 +7,8 @@
 - [互联网Java工程师进阶知识扫盲](https://github.com/doocs/advanced-java)
 - [Java面试基础知识点](https://blog.csdn.net/qq_41112238/article/details/105074636)
 ## 技术文章
+### 刷题
+- [leetcode分类刷题](https://github.com/yuanguangxin/LeetCode)
 ### Java
 - [从ReentrantLock实现看AQS的原理及应用](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
 - [不得不说的Java锁事](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651749434&idx=3&sn=5ffa63ad47fe166f2f1a9f604ed10091&chksm=bd12a5778a652c61509d9e718ab086ff27ad8768586ea9b38c3dcf9e017a8e49bcae3df9bcc8&scene=38#wechat_redirect)
