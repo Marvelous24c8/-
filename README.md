@@ -9,6 +9,7 @@
 - [Java工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
 - [互联网Java工程师进阶知识扫盲](https://github.com/doocs/advanced-java)
 - [Java面试基础知识点](https://blog.csdn.net/qq_41112238/article/details/105074636)
+- [Java项目](https://github.com/CodingDocs/awesome-java)
 ## 技术文章
 ### 刷题
 - [leetcode分类刷题](https://github.com/yuanguangxin/LeetCode)
